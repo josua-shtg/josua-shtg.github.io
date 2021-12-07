@@ -1,0 +1,29 @@
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #add8e6;
+  font-family: Geneva;
+}
+
+.jumbotron h1 {
+  font-size: 40px;
+  margin-top: 1rem;
+}
+
+#projects {
+  background-color: #add8e6;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.navbar-nav > li:hover {
+  border-bottom: 3px solid #fff;
+}
+
+.navbar {
+  -webkit-transition: padding 0.2s ease;
+  -moz-transition: padding 0.2s ease;
+  -o-transition: padding 0.2s ease;
+  transition: padding 0.2s ease;
+}
